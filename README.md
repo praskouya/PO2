@@ -30,6 +30,7 @@ A program that prompts the user to input two vectors (sequences of numbers), wit
 ### Project 5: Notification Server
 
 A network program consisting of a client application and a server application for queuing and sending notifications.
+
 The client application 
 - Connects to the server with exception handling.
 - Collects wanted waiting time and content of the notification from the user.
